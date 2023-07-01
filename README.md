@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IceMaster3923
 - 👀 I’m interested in science
 - 🌱 I’m currently learning algebra
-- 💞️ I’m looking to collaborate on games
+- 💞️ I’m looking to collaborate on video games
 - 📫 How to reach me open an issue
 
 <!---
